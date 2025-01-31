@@ -63,7 +63,7 @@ int main()
 
     while (true) 
     {
-            controle_getchar();
+            //controle_getchar();
             controle_getchar_timeout();
     }
 }
